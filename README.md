@@ -1,6 +1,6 @@
 # Regional-Sales-and-Profit-Analysis-with-Data-Visualization
 
-**Project Description**
+**Project Description:**
 This project involves importing sales data from an Excel sheet and analyzing it to extract key metrics. The main tasks include:
 
 **Data Import** and **Cleaning**
